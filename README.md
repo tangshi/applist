@@ -12,13 +12,9 @@
 
 [WPS](http://www.wps.cn/product/wpsmac/)
 
-[CotEditor](https://coteditor.com/)
-
 [ShadowSocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 
 [MacDown](https://macdown.uranusjr.com/)
-
-[TextMate](https://macromates.com/)
 
 [Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?mt=12)
 
@@ -38,4 +34,26 @@
 
 [Clipy](https://clipy-app.com/)
 
+[Maccy](https://maccy.app/)
 
+[Bitwarden](https://bitwarden.com/)
+
+[Bob](https://github.com/ripperhe/Bob)
+
+[Fork](https://git-fork.com/)
+
+[ocenaudio](https://www.ocenaudio.com/en)
+
+[tencent-lemon](https://mac.gj.qq.com/)
+
+[BetterZip](https://macitbetter.com/)
+
+[epic](https://www.epicbrowser.com/)
+
+[omnidisksweeper](https://www.omnigroup.com/more/)
+
+[openinterminal-lite](https://github.com/Ji4n1ng/OpenInTerminal)
+
+[suspicious-package](https://www.mothersruin.com/software/SuspiciousPackage/)
+
+[syntax-highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)
