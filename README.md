@@ -8,8 +8,6 @@
 
 [Jietu](https://jietu.qq.com/)
 
-[VS Code](https://code.visualstudio.com/)
-
 [WPS](http://www.wps.cn/product/wpsmac/)
 
 [ShadowSocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
@@ -22,7 +20,11 @@
 
 ### homebrew cask app
 
+[visual-studio-code](https://code.visualstudio.com/)
+
 [Keka](https://www.keka.io/zh-cn/)
+
+[BetterZip](https://macitbetter.com/)
 
 [F.lux](https://justgetflux.com/)
 
@@ -45,8 +47,6 @@
 [ocenaudio](https://www.ocenaudio.com/en)
 
 [tencent-lemon](https://mac.gj.qq.com/)
-
-[BetterZip](https://macitbetter.com/)
 
 [epic](https://www.epicbrowser.com/)
 
